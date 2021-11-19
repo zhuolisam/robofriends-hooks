@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+body{
+	background: linear-gradient(to right, rgba(55,157,204,1) 0%, rgba(23,26,28,1) 100%);
+}
+h1{
+	font-family: 'Press Start 2P', cursive;
+	color: #0ccac4;
+}
