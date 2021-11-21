@@ -13,7 +13,6 @@ function App () {
     //         searchfield:''
     //     }
     // }
-
 	// componentDidMount(){
 	// 	fetch('https://jsonplaceholder.typicode.com/users')
 	// 		.then(answer => answer.json())
